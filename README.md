@@ -9,6 +9,13 @@ Emphasized books were particularly useful.
 
 #### Mathematics
 
+| Feature     | KASLR     | KARL |
+| ------------- | ------------- | Relinks kernel functions and objects in a randomized order at each boot. |
+| Randomization Scope | Cell 2, Row 1 | Randomized once per boot but affects internal layout. |
+| Frequency| | Even if one address leaks, the rest remain unpredictable. |
+| Security Improvement |
+| Used in |
+
 #### Cryptocurrencies, Blockchain and Quant Finance
 
 ### Books I Plan to Read:
